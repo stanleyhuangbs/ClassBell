@@ -1,0 +1,16 @@
+.DS_Store
+.build/
+.dist/
+.swiftpm/
+DerivedData/
+*.xcuserstate
+settings.json
+*.log
+*.m4a
+*.mp3
+*.wav
+*.caf
+*.aiff
+*.ogg
+.env
+wechat/draft/
