@@ -2,6 +2,7 @@
 .build/
 .dist/
 .swiftpm/
+.gh-cache/
 DerivedData/
 *.xcuserstate
 settings.json
